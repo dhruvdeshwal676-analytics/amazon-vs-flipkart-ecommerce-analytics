@@ -1,4 +1,5 @@
 # 🛒 Amazon vs Flipkart E-commerce Analytics
+> A comparative e-commerce analytics project using Excel and Power BI to analyze customer behavior, sales performance, product insights, pricing, discounts, and platform preferences across Amazon and Flipkart.
 
 ## 📊 Project Overview
 
@@ -177,6 +178,26 @@ Includes:
 - Business Analytics
 
 ---
+# 📁 Project Structure
+
+```text
+amazon-vs-flipkart-ecommerce-analytics/
+│
+├── data/
+│   └── ecommerce_analytics_dataset.xlsx
+│
+├── dashboard/
+│   ├── customer-insights-dashboard.png
+│   ├── sales-performance-dashboard.png
+│   └── product-insights-dashboard.png
+│
+├── powerbi/
+│   ├── product-insights-dashboard.pbix
+│   ├── sales-performance-dashboard.pbix
+│   └── customer-insights-dashboard.pbix
+│
+└── README.md
+```
 
 # 💡 Business Value
 
@@ -203,28 +224,3 @@ The Power BI files used to create the interactive dashboards are available below
 Aspiring Data Analyst | Business Analytics
 
 **Skills:** Excel | Power BI | SQL | Python | Data Analysis
-
-
-
-# 📁 Project Structure
-
-```text
-amazon-vs-flipkart-ecommerce-analytics/
-│
-├── data/
-│   └── ecommerce_analytics_dataset.xlsx
-│
-├── dashboard/
-│   ├── customer-insights-dashboard.png
-│   ├── sales-performance-dashboard.png
-│   └── product-insights-dashboard.png
-│
-├── powerbi/
-│   ├── product-insights-dashboard.pbix
-│   ├── sales-performance-dashboard.pbix
-│   └── customer-insights-dashboard.pbix
-
-
-
-│
-└── README.md
