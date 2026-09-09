@@ -46,7 +46,7 @@ This dashboard analyzes customer behavior and preferences based on survey respon
 
 ### Dashboard Preview
 
-![Customer Insights Dashboard](dashboard/customer-insights-dashboard)
+![Customer Insights Dashboard](dashboard/customer-insights-dashboard.png)
 
 ---
 
