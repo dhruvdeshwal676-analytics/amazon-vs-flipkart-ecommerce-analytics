@@ -178,6 +178,34 @@ Includes:
 
 ---
 
+# 💡 Business Value
+
+This project demonstrates how data can be transformed into business insights...
+
+---
+
+# 📊 Power BI Dashboard Files
+
+The Power BI files used to create the interactive dashboards are available below.
+
+| Dashboard | Power BI File |
+|---|---|
+| 👥 Customer Insights Dashboard | [View PBIX](powerbi/customer-insights-dashboard.pbix) |
+| 💰 Sales Performance Dashboard | [View PBIX](powerbi/sales-performance-dashboard.pbix) |
+| 📦 Product Insights Dashboard | [View PBIX](powerbi/product-insights-dashboard.pbix) |
+
+---
+
+# 👨‍💻 Author
+
+**Dhruv Deshwal**
+
+Aspiring Data Analyst | Business Analytics
+
+**Skills:** Excel | Power BI | SQL | Python | Data Analysis
+
+
+
 # 📁 Project Structure
 
 ```text
@@ -195,5 +223,8 @@ amazon-vs-flipkart-ecommerce-analytics/
 │   ├── product-insights-dashboard.pbix
 │   ├── sales-performance-dashboard.pbix
 │   └── customer-insights-dashboard.pbix
+
+
+
 │
 └── README.md
